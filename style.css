@@ -7,17 +7,26 @@ body {
 }
 
 .navbar {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(212, 183, 183);
 }
 
 .imgProfilAcc {
-    width: 150px;
+    width: 250px;
+    border-radius: 20px;
 }
 
 #accueil {
     min-height: 750px;
+    background-color:   rgb(173, 128, 136);
 }
 
+.card-img-top {
+    height: 250px;
+}
+
+#about {
+    background-color: rgb(173, 128, 136);;
+}
 .imgServices {
     width: 120px;
     height: 120px;
@@ -27,9 +36,14 @@ body {
     margin: auto;
 }
 
+#contact {
+    background-color:   rgb(173, 128, 136);
+}
+
 .titreContact {
     padding: 40px 0 50px 0;
     margin-top: 100px;
 }
+
 
 
